@@ -1,4 +1,4 @@
-export default function validateInfo(values) {
+export default function validateInfo2(values) {
     let errors = {};
   
     if (!values.username.trim()) {
